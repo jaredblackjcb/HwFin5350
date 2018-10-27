@@ -1,0 +1,61 @@
+---
+output: 
+  pdf_document:
+    citation_package: natbib
+    keep_tex: true
+    fig_caption: true
+    latex_engine: pdflatex
+    template: ./svm-latex-ms.tex
+title: "The Role of Computation in Building Economic Models"
+author:
+- name: Jared Black
+  affiliation: FIN 5350 
+abstract: "This article explores the purpose of economic models and suggests that economists should use Bayesian methods to build models that more accurately reflect the real world. The purpose of building models is to solve problems in markets and prevent catastrophic financial crises."
+keywords: "Bayesian statistics, DSGE "
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+geometry: margin=1in
+fontfamily: mathpazo
+fontsize: 11pt
+spacing: double
+bibliography: ./master.bib
+biblio-style: apsr
+---
+
+
+>  
+
+# Introduction
+
+The role of economists should be to prevent, or to at least lessen, the disastrous effects of market crashes on the economy. If there is any value at all in studying economic theory, it is in applying economic principles to markets in the real world. The most perfect computational models do no good if we cannot prevent catastrophic market failures. Economics should not be so much about equilibrium, but about catallactics @Buchanan1979. We need models that help us explain markets and prices as they actually are rather than as mathematics says they should be. By studying the exchanges that lead to the emergence of market prices, we can come to understand the incentives that are driving the exchange.
+
+
+## Proposal
+
+The role of economists should be to prevent, or to at least lessen, the disastrous effects of market crashes on the economy. If there is any value at all in studying economic theory, it is in applying economic principles to markets in the real world. The most perfect computational models do no good if we cannot prevent catastrophic market failures. Economics should not be so much about equilibrium, but about catallactics. We need models that help us explain markets and prices as they actually are rather than as mathematics says they should be. By studying the exchanges that lead to the emergence of market prices, we can come to understand the incentives that are driving the exchange.
+The only thing that economists can actually do to change markets is to manipulate the incentives in the marketplace by changing laws or fiscal policies. The Federal Reserve employs over 300 individuals with Ph.D.'s in economics, and yet they still cannot prevent major financial crises from occurring. If all we do is build complex mathematical models that do little to explain the real world, then economics as a social science provides little value. Some of the current methodologies in neoclassical economics are preventing economists from reaching their potential.
+	Bayesian statistics is more adept at modeling the real world than classical methods because it attempts to use current knowledge to predict the future without forcing the data to fit a normal distribution. One of the most important jobs of economists is to predict when disastrous events will occur in markets, and to understand the incentives of the individual players in the market well enough to know what steps should be taken to avert such crises.
+	The Neo-Keynesian dynamic stochastic general equilibrium (DSGE) model has some fatal flaws that severely limit its usefulness in representing the real world. First, it assumes that people behave predictably and rationally when in reality they do not (Rickards 2016). It also claims that local equilibria can be aggregated into a complete whole without loss of important information. Hayek explains that this is not the case. The economy is driven by the use of information by individuals whose circumstances are unique to the time and place @Hayek1945. The third and most fatal flaw of the DSGE model is that it assumes the market prices to fall in a normal distribution. Normal distributions are not a good representation of prices because they ignore the possibility of extreme market events such as Black Monday and Black Thursday. According to a normally distributed model, such events should only occur every 40 million years, yet we have had several such events in the past 100 years. Market prices are much more accurately represented by a Paretian distribution.
+
+
+
+## Subsection 2 
+
+
+
+# Middle Section
+
+
+
+# Summary and Conclusion
+
+
+
+<!--
+# References
+\setlength{\parindent}{-0.2in}
+\setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt}
+\vspace*{-0.2in}
+\noindent
+-->
+
